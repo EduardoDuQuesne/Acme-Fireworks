@@ -1,0 +1,28 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations."
+        },
+        {
+            "id": 1,
+            "category": 1,
+            "name": "fragmentation",
+            "description": "Sometimes you gotta fragment"
+        },
+        {
+            "id": 3,
+            "category": 0,
+            "name": "illegal",
+            "description": "Not for sale....wink ;)"
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "bombtastics",
+            "description": "For serious demo jobs"
+        }
+    ]
+}
